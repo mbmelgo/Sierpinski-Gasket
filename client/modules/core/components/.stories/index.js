@@ -1,0 +1,1 @@
+import sierpinski from './sierpinski';
